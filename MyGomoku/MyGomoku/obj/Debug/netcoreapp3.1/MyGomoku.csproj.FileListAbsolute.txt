@@ -1,0 +1,13 @@
+Z:\SDU\C#\MyGomoku\MyGomoku\bin\Debug\netcoreapp3.1\MyGomoku.exe
+Z:\SDU\C#\MyGomoku\MyGomoku\bin\Debug\netcoreapp3.1\MyGomoku.deps.json
+Z:\SDU\C#\MyGomoku\MyGomoku\bin\Debug\netcoreapp3.1\MyGomoku.runtimeconfig.json
+Z:\SDU\C#\MyGomoku\MyGomoku\bin\Debug\netcoreapp3.1\MyGomoku.runtimeconfig.dev.json
+Z:\SDU\C#\MyGomoku\MyGomoku\bin\Debug\netcoreapp3.1\MyGomoku.dll
+Z:\SDU\C#\MyGomoku\MyGomoku\bin\Debug\netcoreapp3.1\MyGomoku.pdb
+Z:\SDU\C#\MyGomoku\MyGomoku\obj\Debug\netcoreapp3.1\MyGomoku.csprojAssemblyReference.cache
+Z:\SDU\C#\MyGomoku\MyGomoku\obj\Debug\netcoreapp3.1\MyGomoku.csproj.CoreCompileInputs.cache
+Z:\SDU\C#\MyGomoku\MyGomoku\obj\Debug\netcoreapp3.1\MyGomoku.AssemblyInfoInputs.cache
+Z:\SDU\C#\MyGomoku\MyGomoku\obj\Debug\netcoreapp3.1\MyGomoku.AssemblyInfo.cs
+Z:\SDU\C#\MyGomoku\MyGomoku\obj\Debug\netcoreapp3.1\MyGomoku.dll
+Z:\SDU\C#\MyGomoku\MyGomoku\obj\Debug\netcoreapp3.1\MyGomoku.pdb
+Z:\SDU\C#\MyGomoku\MyGomoku\obj\Debug\netcoreapp3.1\MyGomoku.genruntimeconfig.cache
