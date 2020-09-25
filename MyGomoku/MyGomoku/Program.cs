@@ -10,7 +10,7 @@ namespace MyGomoku {
         public static Player player_1;                      // players
         public static Player player_2;
         public static bool endgame;                         // indicator that game over
-        public static int turn;                             // turn counter
+        public static int turn;                             // turn counter (default 0)
 
         static void Start() {   // set sizes and default values
             rows = 15;                          
